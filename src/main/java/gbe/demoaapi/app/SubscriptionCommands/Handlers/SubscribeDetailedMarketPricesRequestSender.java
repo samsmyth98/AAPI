@@ -8,8 +8,6 @@ import gbe.demoaapi.app.Logging.LoggerFactory;
 import gbe.demoaapi.app.MainApp;
 import gbe.demoaapi.app.SubscriptionCommands.SubscribeDetailedMarketPricesRequest;
 import gbe.demoaapi.app.SubscriptionCommands.SubscribeDetailedMarketPricesResponse;
-import sun.applet.Main;
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Arrays;
